@@ -1,0 +1,16 @@
+{
+  "name": "node-js-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js",
+    "dev": "nodemon"
+  },
+  "author": "Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
